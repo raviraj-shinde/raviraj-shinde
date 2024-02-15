@@ -7,15 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviraj-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="raviraj-shinde" /> </p>
 
-- 🌱 I’m currently learning **MERN 🌿**
-
-- 👨‍💻 All of my Links are available at [https://linktr.ee/ravirajshinde](https://linktr.ee/ravirajshinde)
-
-- 💬 Ask me about **Java | DSA | HTML5 | CSS3 | JS etc**
-
-- 📫 How to reach me **ravishinde96k@gmail.com**
-
-- 📄 Know about my experiences [https:https://bit.ly/raviraj-resume](https://drive.google.com/uc?export=download&id=1UwfOCjDAJ7Us6vCkEFkf_xvip4f-aJik)
+- 📫 To reach me ravishinde96k@gmail.com
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning MERN stack.
+- 📄 My Resume [https:https://bit.ly/raviraj-resume](https://drive.google.com/uc?export=download&id=1UwfOCjDAJ7Us6vCkEFkf_xvip4f-aJik)
+- 👨‍💻 My Linktree [https://linktr.ee/ravirajshinde](https://linktr.ee/ravirajshinde)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviraj-shinde&show_icons=true&locale=en&layout=compact" alt="raviraj-shinde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviraj-shinde&show_icons=true&locale=en" alt="raviraj-shinde" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj-shinde&" alt="raviraj-shinde" /></p>
+</hr>
 
