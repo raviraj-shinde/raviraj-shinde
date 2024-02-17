@@ -11,7 +11,7 @@
 - 📫 To reach me ravishinde96k@gmail.com
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning MERN stack.
-- 📄 My Resume [https:https://bit.ly/raviraj-resume](https://drive.google.com/uc?export=download&id=1UwfOCjDAJ7Us6vCkEFkf_xvip4f-aJik)
+- 📄 My Resume [https://bit.ly/raviraj-resume](https://drive.google.com/uc?export=download&id=1UwfOCjDAJ7Us6vCkEFkf_xvip4f-aJik)
 - 👨‍💻 My Linktree [https://linktr.ee/ravirajshinde](https://linktr.ee/ravirajshinde)
 </br>
 <h3 align="left">Connect with me:</h3>
