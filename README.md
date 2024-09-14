@@ -3,9 +3,6 @@
 </br>
 
 
-<img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTli3T2JzMFGDH2BRcAyw_p9fPed8znr1lTSFyIsfPICeAWbrKhmn0xWLBrKoMa8SF28MdovZSpM_jqP3T6DncfeOZmag=s2560" type=".gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviraj-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="raviraj-shinde" /> </p>
 
 - 📫 To reach me ravishinde96k@gmail.com
