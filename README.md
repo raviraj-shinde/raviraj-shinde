@@ -34,14 +34,4 @@
   <a style="text-decoration:none" href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img style="margin-right: 1rem;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> &ensp;</a> 
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </p>
 </hr>
-</p>
-</br>
-
-<p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=raviraj-shinde&show_icons=true&locale=en&layout=compact" alt="raviraj-shinde" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviraj-shinde&show_icons=true&locale=en" alt="raviraj-shinde" />
-</p>
 </br>
