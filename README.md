@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Raviraj Shinde</h1>
-<h3 align="center">A passionate Full Stack Web Developer| Java | DSA</h3>
+<h3 align="center">A passionate Full Stack Java Developer | DSA</h3>
 </br>
 
 
@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviraj-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="raviraj-shinde" /> </p>
 
 - 📫 To reach me ravishinde96k@gmail.com
-- 🔭 I’m currently working on Node.js
-- 🌱 I’m currently learning MERN stack.
+- 🔭 I’m currently working on JSP.
+- 🌱 I’m currently learning Swing.
 - 📄 My Resume [https://bit.ly/raviraj-resume](https://drive.google.com/uc?export=download&id=1UwfOCjDAJ7Us6vCkEFkf_xvip4f-aJik)
 - 👨‍💻 My Linktree [https://linktr.ee/ravirajshinde](https://linktr.ee/ravirajshinde)
 </br>
