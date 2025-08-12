@@ -17,7 +17,7 @@
 
 - 🔭 Currently building full-stack apps using **Spring Boot + React**
 - 💻 Passionate about **Backend Development**, APIs, and **clean code**
-- 🧠 Constantly exploring **Java, DSA**, and scalable backend solutions
+- 🧠 I Have strong foundation in **Java, Collection Framework, DSA** 
 
 ---
 
