@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:ravishinde96k@gmail.com">📧ravishinde96k@gmail.com</a> •
   <a href="https://linktr.ee/ravirajshinde" target="_blank">🔗Linktree</a> •
-  <a href="#" target="_blank">📄Resume</a>
+  <a href="https://drive.google.com/drive/folders/1YaR-A3tPsONA5nL6Eg7oVlmkS_Q7xDPg" target="_blank">📄Resume</a>
 </p>
 
 ---
